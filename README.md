@@ -12,9 +12,8 @@ Welcome to my GitHub profile! I'm a passionate developer interested in web devel
 
 ## 📌 Projects
 Here are some of my recent projects:
-- **Marteen** - A web-based application with authentication and user-specific content.
 - **Bookshelf API** - A simple API to manage books using pure Node.js without a database.
-- **Online Canteen System** - Built with Express.js and EJS for managing food orders.
+- **MarTeen** - Built with Express.js and EJS for managing food orders.
 - **Article Management** - Created with Laravel 11 for content management.
 - **.NET Project** - Developed using Project IDX from Google with C# and Razor.
 
