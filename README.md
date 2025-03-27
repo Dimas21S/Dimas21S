@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer interested in web devel
 - 🛠️ Experience with Node.js, Express.js, and Python
 - 🔗 Interested in API development, backend systems, and databases
 - 🤖 Slightly interested in AI and machine learning
+- 🎯 Hobbies: Playing chess, reading news on Google, and watching football
 
 ## 📌 Projects
 Here are some of my recent projects:
@@ -27,5 +28,6 @@ Here are some of my recent projects:
 - 🔗 GitHub: [Dimas21S](https://github.com/Dimas21S)
 
 Thanks for visiting my GitHub profile! 🚀 Let's build something awesome together! 😃
+
 Note: Some of my projects are private, but feel free to reach out if you’re interested in learning more!
 
