@@ -19,8 +19,8 @@ Here are some of my recent projects:
 - **.NET Project** - Developed using Project IDX from Google with C# and Razor.
 
 ## 🛠️ Tech Stack
-- **Languages:** JavaScript, Python, PHP, C#
-- **Frameworks & Libraries:** Laravel, Express.js, Flask, Bootstrap, Tailwind CSS
+- **Languages:** Python, PHP, C#
+- **Frameworks & Libraries:** Laravel, Express.js, Flask
 - **Databases:** MySQL, JSON storage
 - **Tools:** Git, GitHub, Visual Studio, VS Code, Postman
 
@@ -29,5 +29,5 @@ Here are some of my recent projects:
 
 Thanks for visiting my GitHub profile! 🚀 Let's build something awesome together! 😃
 
-Note: Some of my projects are private, but feel free to reach out if you’re interested in learning more!
+Note: Some of my projects are private.
 
