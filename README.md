@@ -7,6 +7,6 @@
 
 ---
 
-### 🏆 GitHub Trophy
+## 🏆 GitHub Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dimas21S&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Dimas21S&theme=onedark)
