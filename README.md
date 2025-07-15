@@ -1,13 +1,5 @@
 # Hi there, I'm Dimas! 👋
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dimas21S&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimas21S&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dimas21S&theme=radical)
-
----
-
 ### 🏆 GitHub Trophy
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Dimas21S&theme=onedark&title=Commits,Stars,Followers,Repositories&column=-1)
