@@ -13,7 +13,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dimas21S&theme=onedark&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dimas21S&theme=onedark&title=Commit,Stars,MultiLanguage,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
