@@ -24,6 +24,3 @@
 
 ## 📫 Let's Connect
 - GitHub: [@Dimas21S](https://github.com/Dimas21S)
-
----
-⭐️ From [Dimas21S](https://github.com/Dimas21S)
