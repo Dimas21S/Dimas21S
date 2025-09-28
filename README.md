@@ -4,7 +4,6 @@
 
 ## 📊 GitHub Stats
 ![Dimas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dimas21S&show_icons=true&theme=radical)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dimas21S&repo=Project-MUAku)](https://github.com/Dimas21S/Project-MUAku)
 
 ---
 
@@ -15,6 +14,12 @@
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dimas21S&theme=onedark&title=Commit,Stars,MultiLanguage,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## Github Repo
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dimas21S&repo=Project-MUAku)](https://github.com/Dimas21S/Project-MUAku)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dimas21S&repo=Project-MUAku)](https://github.com/Dimas21S/Project-MUAku)
 
 ---
 
