@@ -4,6 +4,7 @@
 
 ## 📊 GitHub Stats
 ![Dimas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dimas21S&show_icons=true&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dimas21S&repo=proyek-laravel)](https://github.com/Dimas21S/Project-MUAku)
 
 ---
 
