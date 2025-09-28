@@ -19,7 +19,7 @@
 
 ## Github Repo
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dimas21S&repo=Project-MUAku)](https://github.com/Dimas21S/Project-MUAku)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dimas21S&repo=Project-MUAku)](https://github.com/Dimas21S/Project-MUAku)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dimas21S&repo=MathQuiz)](https://github.com/Dimas21S/MathQuiz)
 
 ---
 
